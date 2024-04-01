@@ -15,6 +15,8 @@ Clustering of countries by healthcare costs as a percentage of GDP and life expe
 
 Based on the indicators "health" (healthcare costs as a percentage of GDP) and "life_expec" (life expectancy), it was decided to divide the data into the following 5 groups:
 
+<img src="https://github.com/dkalenov/Healthcare-Research-by-Countries/blob/main/assets/clustering.png" alt="Clustering">
+
 - Group of countries with below-average healthcare costs and below-average life expectancy: This group will include countries where the healthcare system is not very developed and where life expectancy remains low.
 
 - Group of countries with below-average healthcare costs and near or above-average life expectancy: This group will include countries where healthcare is organized effectively despite low healthcare costs, and where life expectancy remains high.
